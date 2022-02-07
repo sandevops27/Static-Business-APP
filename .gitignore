@@ -1,0 +1,5 @@
+# file patterns, in the entire working dir it will scan and not alow the specific for tracking
+
+*.txt
+*.png
+*.jpeg
